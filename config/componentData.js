@@ -1,0 +1,1 @@
+module.exports = ["An error occurred while attempting to generate metadata for ProgressBar. SyntaxError: Unexpected token (16:4)"]
