@@ -76,7 +76,6 @@ class RegistrationForm extends React.Component {
                     onChange={this.onChange}
                     value={password}
                     mixLength={50}
-                    // placeholder="Enter password"
                     showVisibilityToggle
                     quality={this.passwordQuality(password)}
                     error={errors.password} />
